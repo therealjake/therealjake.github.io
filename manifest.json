@@ -8,6 +8,7 @@
   "manifest_version": 1,
   "action": {
     "title": "OBR EZD6 Character Sheet",
+    "icon": "/icon.svg",
     "popover": "/",
     "height": 720,
     "width": 720
