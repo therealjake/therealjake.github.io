@@ -2,6 +2,7 @@
   "short_name": "Shadowbear",
   "name": "Shadowbear = Shadowdark + Owlbear Rodeo",
   "version": "0.1.0",
+  "manifest_version": 1,
   "icons": [
     {
       "src": "favicon.ico",
