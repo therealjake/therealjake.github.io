@@ -1,12 +1,12 @@
 {
   "name": "Shadowbear",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "manifest_version": 1,
   "action": {
     "title": "Shadowbear",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 720,
-    "width": 875
+    "width": 835
   }
 }
