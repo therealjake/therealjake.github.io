@@ -1,9 +1,30 @@
 {
-  "name": "Owlbear Rodeo EZD6 Character Sheet",
-  "version": "0.6.12",
-  "manifest_version": 1,
+  "short_name": "Shadowbear",
+  "name": "Shadowbear = Shadowdark + Owlbear Rodeo",
+  "version": "0.1.0",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
   "action": {
-    "title": "OBR EZD6 Character Sheet",
+    "title": "Shadowbear",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 720,
