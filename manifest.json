@@ -1,6 +1,5 @@
 {
-  "short_name": "Shadowbear",
-  "name": "Shadowbear = Shadowdark + Owlbear Rodeo",
+  "name": "Shadowbear",
   "version": "0.1.0",
   "manifest_version": 1,
   "icons": [
@@ -20,10 +19,6 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
   "action": {
     "title": "Shadowbear",
     "icon": "/icon.svg",
